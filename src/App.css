@@ -1,0 +1,19 @@
+html {
+  text-align: left;
+  font-size: 18px;
+  margin: 0;
+}
+:root {
+  --cyan: hsl(180, 66%, 49%);
+  --cyan-ligth: hsl(180, 54%, 65%);
+  --dark-violet: hsl(257, 27%, 26%);
+
+  --red: hsl(0, 87%, 67%);
+
+  --gray: hsl(0, 0%, 75%);
+  --grayish-violet: hsl(257, 7%, 63%);
+  --very-dark-blue: hsl(255, 11%, 22%);
+  --very-dark-violet: hsl(260, 8%, 14%);
+
+  --background: #f0f1f6;
+}
